@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+
+    background-color:antiquewhite;
+    font-family:Source Code Pro, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.356) 1px 1px 2px 1px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+nav a{
+    margin: 10px;
+    color:crimson;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: rgb(241, 185, 112,.5);
+    padding: 8px;
+}
+p{
+    margin: 1% 2%;
+}
+h1,h2,h3,h4,h5,h6{
+    margin-left: 5%;
+}
+h3{
+    
+    text-decoration: underline;
+    color: crimson;
+    background-color: white;
+    margin-right: 15%;
+}
+section{
+    background-color: rgba(255, 255, 255, 0.353);
+}
+
+footer{
+    position: absolute;
+    bottom: 0px;
+    font-size: 12px;
+    text-align: center;
+    margin: 10px;
+    font-style: italic;
+}
